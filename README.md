@@ -102,7 +102,6 @@
 - API에 대한 Unittest에서 제대로 Error에 대한 핸들링이 이루어 졌는가를 확인
 
 ### 🎇 배포 이미지
-![image](https://user-images.githubusercontent.com/101394490/188388015-a9acc980-ea25-4d02-97b5-0042814cd313.png)
-
+![image](https://user-images.githubusercontent.com/104334219/188543521-aaa02992-8cdb-4512-b68d-06a7da686bbd.png)
 
 
