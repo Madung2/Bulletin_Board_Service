@@ -1,4 +1,4 @@
-# Bulletin_Board_Service
+# Wayne_Hills_기업과제 (Bulletin_Board_Service)
 MVP : 유저가 등급에 따라 게시글을 작성할 수 있는 서비스로 아래와 같은 기능을 제공합니다 <br>
 - 유저의 등급 ; 관리자, 운영자, 일반사용자 <br>
 - 게시판의 타입 ; 공지사항, 운영게시판, 자유게시판 <br>
